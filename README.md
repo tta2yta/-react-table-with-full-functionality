@@ -1,5 +1,31 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A web based application developed using React . An iterative and user friendly application that demonstrates full functional react table.
+
+## Desktop, Tablet, Mobile
+
+![screenshot](./public/react-table-1.jpg)
+![screenshot](./public/react-table-2.jpg)
+
+## Live Demo Deployed in Heroku
+https://react-table-ted.herokuapp.com/
+
+## Author
+
+👤 **Tedros Tesfay**
+
+- Github: [tta2yta](https://github.com/tta2yta)
+- Email: tta2yta@gmail.com
+
+👤
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the <a href="https://github.com/tta2yta/-react-table-with-full-functionality/issues" target="_blank">issues page</a>.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
